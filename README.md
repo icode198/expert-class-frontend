@@ -31,7 +31,7 @@
 </div>
 
 ## About
-Expert Class is a ***fully responsive*** web app that I built with a team of 4 members that uses a Ruby on Rails REST API to make CRUD operations. The repo for the back-end is [here](https://github.com/StarSheriff2/expert-class). We followed [this concept design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) by [Murat Korkmaz](https://www.behance.net/muratk).
+Expert Class is a ***fully responsive*** web app that I built with a team of 4 members that uses a Ruby on Rails REST API to make CRUD operations. The repo for the back-end is [here](https://github.com/icode198/expert-class). We followed [this concept design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) by [Murat Korkmaz](https://www.behance.net/muratk).
 
 Some of the technical highlights implemented in this project:
 - Private Routes
@@ -82,7 +82,7 @@ Watch a quick demo and walk-through of this project:
 
 ### Project Management
 
-This project's tasks are described in [this kanban board](https://github.com/StarSheriff2/expert-class/projects/1).
+This project's tasks are described in [this kanban board](https://github.com/icode198/expert-class/projects/1).
 
 ![kanban](https://user-images.githubusercontent.com/61250665/137405588-7fc8d606-5b01-43ca-beae-5c29ae231d2e.png)
 
@@ -98,7 +98,7 @@ To get a local copy up and running, follow these simple example steps.
 
 ### Get files
 1. Open your terminal or command prompt.
-2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `git@github.com:StarSheriff2/expert-class-frontend.git`.
+2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal: `git@github.com:icode198/expert-class-frontend.git`.
 <br>Now go to the ***"Install Dependencies"*** section
 3. Download the program files by clicking on the green button that says “**Code**” on the upper right side of the project frame.
 4. You will see a dropdown menu. Click on “**Download ZIP**.”
@@ -172,40 +172,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - Register for a class
 - View all your class reservations
 
-## Authors
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
-👤 **Breno Xavier**
-
-- GitHub: [@brenoxav](https://github.com/brenoxav)
-- LinkedIn: [Breno Xavier](https://linkedin.com/in/brenoxav)
-
-👤 **Francis Uloko**
-
-- GitHub: [@francisuloko](https://github.com/francisuloko)
-- Twitter: [@francisuloko](https://twitter.com/francisuloko)
-- LinkedIn: [Francis Uloko](https://linkedin.com/in/francisuloko)
-
-👤 **Mih Julius**
-
-- GitHub: [@Mihndim2020](https://github.com/Mihndim2020)
-- Twitter: [@mihndim](https://github.com/mih-julius)
-- LinkedIn: [Mih Julius](https://www.linkedin.com/mih-julius)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/brenoxav/expert-class-frontend/issues).
-
-## 🤝 Acknowledgements
-
-Design:
- - Original design idea by [Murat Korkmaz](https://www.behance.net/muratk)
- - Licenced under The [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/)
+Feel free to check the [issues page](https://github.com/icode198/expert-class-frontend/issues).
 
 ## Show your support
 
@@ -213,4 +184,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/brenoxav/expert-class-frontend/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/expert-class-frontend/blob/master/LICENSE) licensed.
